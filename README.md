@@ -11,3 +11,4 @@ The script run_analysis.R does 5 things in 5 steps:
 
 Details of particular steps in each of the 5 steps above are in the comments directly in the sctipt itself.
 
+There is also codebook available in separate file codebook.txt .
